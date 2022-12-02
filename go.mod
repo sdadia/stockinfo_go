@@ -1,0 +1,1 @@
+module stockinfo_go
